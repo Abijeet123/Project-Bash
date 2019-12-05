@@ -21,3 +21,4 @@
 #define NOT !
 #define EQ ==
 #include "print.h"
+#define elif else if(
