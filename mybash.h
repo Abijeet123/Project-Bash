@@ -1,3 +1,5 @@
+#define ] }
+#define [ }
 #define IF if(
 #define THEN ){
 #define FI }
