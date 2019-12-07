@@ -1,8 +1,10 @@
+#define ] }
+#define [ }
 #define IF if(
 #define THEN ){
 #define FI }
 #define START {
-#define BEGIN void main(){
+#define MAIN void main()
 #define END }
 #define INT int
 #define PTR void *
